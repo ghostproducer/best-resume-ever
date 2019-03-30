@@ -1,64 +1,59 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Matheus
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Zanetti
+# about: 
+#        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
+#        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+position: Front End Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1992
+  location: Brazil
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: Intelliway Technology
+  position: Full Stack Developer
+  timeperiod: March 2018 - Present
+  description: Development of chatbots using IBM Watson technology. Integration of applications via Rest APIs. Design of web pages with HTML, CSS and Javascript. Development of backend in NodeJS. Maintenance of Servers and Databases on Amazon AWS.
+  website: http://intelliway.com.br/
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Self-Employed Freelancer
+  position: Web Developer
+  timeperiod: January 2017 - Present
+  description: Designing, coding and modifying websites, from layout to function and according to a client's specifications. Back End environment with both PHP and NodeJs.
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Adesso Engineering
+  position: Designer of Electrical Installations
+  timeperiod: January 2013 - January 2016
+  description: Design of residential and commercial electrical installations. Analysis of projects and structures. Preparation of technical documents for power utilities.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Bachelor of Electrical Engineering
+  timeperiod: March 2012 - December 2018
+  description: Major in Electrical Engineering, UFES, Brazil.
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
+- name: Javascript
   level: 80
-- name: ES.Next
+- name: Modern CSS
   level: 70
+- name: React
+  level: 50
+- name: Node.js
+  level: 70
+- name: AWS
+  level: 65
+- name: MySQL
+  level: 50
+- name: IBM Watson
+  level: 75
 - name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+  level: 50
+knowledge: Also proficient in AutoCAD, Matlab, Ableton Live and Adobe Illustrator.
 
 projects:
 - name: best-resume-ever
@@ -81,12 +76,12 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: matheuszanetti92@gmail.com
+  phone: +55 27 99934 5071
+  street: 
+  city: Vitória
+  website: linkedin.com/in/matheuszanetti
+  github: ghostproducer
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
 `
