@@ -6,28 +6,29 @@ name:
 # about: 
 #        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
 #        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Front End Developer
+position: Full Stack Developer
 
 birth:
   year: 1992
   location: Brazil
 
 experience:
+- company: Shipp Delivery
+  position: Full Stack Developer
+  timeperiod: April 2019 - Present
+  description: Writing tested and documented JavaScript, HTML and CSS. Make design and technical decisions for AngularJS Storekeeper Platform.
+  website: https://shipp.delivery
+
 - company: Intelliway Technology
   position: Full Stack Developer
-  timeperiod: March 2018 - Present
+  timeperiod: March 2018 - April 2019
   description: Development of chatbots using IBM Watson technology. Integration of applications via Rest APIs. Design of web pages with HTML, CSS and Javascript. Development of backend in NodeJS. Maintenance of Servers and Databases on Amazon AWS.
   website: http://intelliway.com.br/
 
 - company: Self-Employed Freelancer
   position: Web Developer
   timeperiod: January 2017 - Present
-  description: Designing, coding and modifying websites, from layout to function and according to a client's specifications. Back End environment with both PHP and NodeJs.
-
-- company: Adesso Engineering
-  position: Designer of Electrical Installations
-  timeperiod: January 2013 - January 2016
-  description: Design of residential and commercial electrical installations. Analysis of projects and structures. Preparation of technical documents for power utilities.
+  description: Designing, coding and modifying Wordpress websites, from layout to function and according to a client's specifications. Back End environment with both PHP and NodeJs.
 
 education:
 
@@ -39,10 +40,10 @@ education:
 skills:
 - name: Javascript
   level: 80
-- name: Modern CSS
+- name: SASS
   level: 70
-- name: React
-  level: 50
+- name: Angular
+  level: 60
 - name: Node.js
   level: 70
 - name: AWS
@@ -79,7 +80,7 @@ contact:
   email: matheuszanetti92@gmail.com
   phone: +55 27 99934 5071
   street: 
-  city: Vitória
+  city: Vitória - ES - Brazil
   website: linkedin.com/in/matheuszanetti
   github: ghostproducer
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
